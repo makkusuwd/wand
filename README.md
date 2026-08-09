@@ -1,5 +1,5 @@
 > [!WARNING]
-> this is a fork designed for experimentation. this should not be used for real CPPS production. buy a VPS or use [Waddle Forever](https://waddleforever.com).
+> this is a fork designed for experimentation. this is not an alternative and should not be used for real CPPS production. buy a VPS or use [Waddle Forever](https://waddleforever.com).
 
 # wand
 
